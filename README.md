@@ -6,7 +6,7 @@ This repo contains the code and datasets for "Unsupervised Open Relation Extract
 
 The framework of our proposed model InstructORE is depicted below:
 
-![image](https://github.com/XJF0609/InstructORE/assets/40255506/6422521b-6efe-414a-9d22-25d67674b68d)
+![framework](framework.jpg)
 
 
 ### Data
