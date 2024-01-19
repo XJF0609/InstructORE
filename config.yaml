@@ -1,8 +1,9 @@
 batch_size: 64
-k: 50
+k: 16
 N: 6
 loop: 5
 epoch: 4
-sentence_path: 'dataset/'
+dataset: 'fewrel'
+path: 'dataset/'
 bert_max_len: 128
 u: 2.5
