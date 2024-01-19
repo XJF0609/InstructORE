@@ -1,1 +1,6 @@
-# InstructORE
+## InstructORE
+
+```
+python run.py
+```
+
